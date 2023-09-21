@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Forza Kernel by Lopster_70
+kernel.string=Afloat Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
